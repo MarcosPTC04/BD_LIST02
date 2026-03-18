@@ -1,0 +1,28 @@
+# Arquivos de dump temporários
+*.sql
+*.sql.gz
+*.dump
+
+# Backups
+backup/
+backups/
+
+# Logs
+*.log
+
+# Arquivos de configuração sensíveis
+.env
+config.php
+database.yml
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Pastas temporárias
+tmp/
+temp/
+
+# Arquivos de IDE
+.vscode/
+.idea/
