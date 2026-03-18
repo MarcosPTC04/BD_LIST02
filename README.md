@@ -38,6 +38,6 @@ Alterações estruturais com ALTER TABLE.
 
 ## 👨‍💻 Autor
 
-Marcos Antonio
-Curso: Análise e Desenvolvimento de Sistemas
+Marcos Antonio  
+Curso: Análise e Desenvolvimento de Sistemas  
 Disciplina: Banco de Dados
